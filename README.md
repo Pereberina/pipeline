@@ -1,3 +1,3 @@
 # Pipeline
-Jenkins pipeline sample 
+Jenkins pipeline sample <br />
 See https://jenkins.io/doc/book/pipeline/
